@@ -8,6 +8,7 @@
 ## 其他
 
 * [Hello world](https://github.com/guanguans/guanguans/issues/1)
+* [Github 导航栏加强](https://github.com/guanguans/guanguans/issues/3)
 
 ## License
 
