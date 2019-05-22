@@ -3,6 +3,7 @@
 ## [Git](https://github.com/guanguans/guanguans/labels/Git)
 
 * [Commit message 和 Change log 编写指南](https://github.com/guanguans/guanguans/issues/2)
+* [Git 修改任意一条提交记录信息](https://github.com/guanguans/guanguans/issues/4)
 
 ## [Github](https://github.com/guanguans/guanguans/labels/Github)
 
