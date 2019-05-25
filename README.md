@@ -1,4 +1,6 @@
 # 琯琯博客
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans?ref=badge_shield)
+
 
 ## [PHP](https://github.com/guanguans/guanguans/labels/PHP)
 * [Composer 加速下载](https://github.com/guanguans/guanguans/issues/5)
@@ -19,3 +21,6 @@
 ## License
 
 [MIT](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans?ref=badge_large)
