@@ -1,7 +1,7 @@
 # 琯琯博客
 
 ## [PHP](https://github.com/guanguans/guanguans/labels/PHP)
-* [Composer 加速下载](https://github.com/guanguans/guanguans/issues/8)
+* [Composer 加速下载](https://github.com/guanguans/guanguans/issues/5)
 
 ## [Git](https://github.com/guanguans/guanguans/labels/Git)
 
