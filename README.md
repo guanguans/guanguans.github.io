@@ -9,7 +9,7 @@
 
 * [Commit message 和 Change log 编写指南](https://github.com/guanguans/guanguans/issues/2)
 * [Git 修改任意一条提交记录信息](https://github.com/guanguans/guanguans/issues/4)
-* [Git submodule 的使用](https://github.com/guanguans/guanguans/issues/6)
+* [Git submodule 的使用](https://github.com/guanguans/guanguans/issues/7)
 
 ## [Github](https://github.com/guanguans/guanguans/labels/Github)
 
