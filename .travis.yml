@@ -10,7 +10,7 @@ script:
   - lint-md *.md
 
 after_failure:
-  - curl https://api.day.app/${APIDAYTOKEN}/guanguans 构建失败
+  - curl "https://api.day.app/${APIDAYTOKEN}/guanguans 构建失败"
 
 after_success:
-  - curl https://api.day.app/${APIDAYTOKEN}/guanguans 构建成功
+  - curl "https://api.day.app/${APIDAYTOKEN}/guanguans 构建成功"
