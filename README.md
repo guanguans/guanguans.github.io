@@ -1,5 +1,5 @@
 # 琯琯博客
-[![Build Status](https://travis-ci.org/guanguans/guanguans.svg?branch=master)](https://travis-ci.org/guanguans/guanguans)
+[![Build Status](https://travis-ci.org/guanguans/guanguans.github.io.svg?branch=master)](https://travis-ci.org/guanguans/guanguans.github.io)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans?ref=badge_shield)
 
 
