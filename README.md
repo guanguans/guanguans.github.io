@@ -4,6 +4,8 @@
 
 
 ## [PHP](https://github.com/guanguans/guanguans/labels/PHP)
+
+* [Tideways、xhprof 和 xhgui 打造 PHP 非侵入式监控平台](https://github.com/guanguans/guanguans/issues/8)
 * [Composer 加速下载](https://github.com/guanguans/guanguans/issues/5)
 
 ## [Git](https://github.com/guanguans/guanguans/labels/Git)
