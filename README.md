@@ -7,7 +7,7 @@
     <thead>
         <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/guanguans/guanguans/labels/PHP"><b>PHP</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/guanguans/guanguans/labels/Git"><b>PHP</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/guanguans/guanguans/labels/Git"><b>Git</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/guanguans/guanguans/labels/Github"><b>Github</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/guanguans/guanguans/labels/其他"><b>其他</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         </tr>
