@@ -7,10 +7,10 @@
     <thead>
         <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;<a style="color: #3C9CEC;" href="https://github.com/guanguans/guanguans/labels/Docker"><b>Docker</b></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/guanguans/guanguans/labels/PHP"><b>PHP</b></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/guanguans/guanguans/labels/Git"><b>Git</b></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/guanguans/guanguans/labels/Github"><b>Github</b></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/guanguans/guanguans/labels/其他"><b>其他</b></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;<a style="color: #8892BE;" href="https://github.com/guanguans/guanguans/labels/PHP"><b>PHP</b></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;<a style="color: #f44d27;" href="https://github.com/guanguans/guanguans/labels/Git"><b>Git</b></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;<a style="color: #000000;" href="https://github.com/guanguans/guanguans/labels/Github"><b>Github</b></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;<a style="color: #5670d8;" href="https://github.com/guanguans/guanguans/labels/其他"><b>其他</b></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
         </tr>
     </thead>
 </table>
