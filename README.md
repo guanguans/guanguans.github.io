@@ -15,14 +15,14 @@
     </thead>
 </table>
 
-## 开源项目
+## 项目
 
-* [dnmp-plus](https://guanguans.github.io/dnmp-plus/) - Docker 的 LNMP一键安装开发环境 + PHP 非侵入式监控平台 xhgui(优化系统性能、定位 Bug 神器)
+* [dnmp-plus](https://guanguans.github.io/dnmp-plus/) - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui(优化系统性能、定位 Bug 神器)
 * [music-php](https://guanguans.github.io/music-php/) - 命令行全网音乐搜索和下载
 * [notes](https://guanguans.github.io/notes/) - 个人学习笔记
 * [design-patterns-for-humans-cn](https://guanguans.github.io/design-patterns-for-humans-cn/) - Design patterns for humans 中文版
 * [favorite-link](https://guanguans.github.io/favorite-link/) - 每天收集喜欢的项目和网址
-* [awesome-mongodb-cn](https://guanguans.github.io/awesome-mongodb-cn/) - awesome-mongodb 中文版
+* [awesome-mongodb-cn](https://guanguans.github.io/awesome-mongodb-cn/) - Awesome MongoDB 中文版
 * [lingqiu-folk-story](https://folkstory.github.io/lingqiu-folk-story/) - 民间故事合集
 
 ## [Docker](https://github.com/guanguans/guanguans/labels/Docker)
