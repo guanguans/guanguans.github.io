@@ -17,7 +17,7 @@
 
 ## [Docker](https://github.com/guanguans/guanguans/labels/Docker)
 
-* [dnmp-plus = Docker+Nginx+MySQL+PHP(xhprof、tideways)+ Redis+MongDB+xhgui，PHPer 的一键安装式终极 debug 开发环境的安装与使用](https://github.com/guanguans/guanguans/issues/9)
+* [Docker 的 LNMP 一键安装开发环境与 PHP 非侵入式监控平台 xhgui(优化系统性能、定位 Bug 神器)的安装使用](https://github.com/guanguans/guanguans/issues/9)
 
 ## [PHP](https://github.com/guanguans/guanguans/labels/PHP)
 
