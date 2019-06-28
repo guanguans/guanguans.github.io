@@ -9,7 +9,7 @@
         <td><a target="_blank" style="color: #8892BE;" href="https://github.com/guanguans/guanguans/labels/PHP"><b>&nbsp;&nbsp;&nbsp;&nbsp;PHP&nbsp;&nbsp;&nbsp;&nbsp;</b></a></td>
         <td><a target="_blank" style="color: #f44d27;" href="https://github.com/guanguans/guanguans/labels/Git"><b>&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;</b></a></td>
         <td><a target="_blank" style="color: #000000;" href="https://github.com/guanguans/guanguans/labels/Github"><b>&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;&nbsp;&nbsp;&nbsp;</b></a></td>
-        <td><a target="_blank" style="color: #5670d8;"href="https://github.com/guanguans/guanguans/labels/其他"><b>&nbsp;&nbsp;&nbsp;&nbsp;其他&nbsp;&nbsp;&nbsp;&nbsp;</b></a></td>
+        <td><a target="_blank" style="color: #5670d8;" href="https://github.com/guanguans/guanguans/labels/其他"><b>&nbsp;&nbsp;&nbsp;&nbsp;其他&nbsp;&nbsp;&nbsp;&nbsp;</b></a></td>
     </tr>
 </table>
 
