@@ -1,11 +1,11 @@
 theme: jekyll-theme-cayman
 
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        guanguans
+tagline:      No practice, no gain in one's wit.
 baseurl:      ""
-paginate:     3
-locale:       "zh_CN"
+paginate:     1
+locale:       "zh"
 
 # About/contact
 author:
