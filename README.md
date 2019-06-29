@@ -52,8 +52,7 @@
     <li><a target="_blank" href="https://github.com/guanguans/guanguans/issues/1">Hello world</a></li>
 </ul>
 
-## License
-
-[MIT](LICENSE)
+<h2>License</h2>
+<a target="_blank" href="LICENSE">MIT</a>
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans?ref=badge_large)
