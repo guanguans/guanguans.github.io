@@ -4,13 +4,13 @@ theme: jekyll-theme-cayman
 title:        Project or Site name
 tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
-paginate:     1
-locale:       "en"
+paginate:     3
+locale:       "zh_CN"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       琯琯
+  url:        https://guanguans.github.io 
 
 # Gems
 gems:
