@@ -5,7 +5,7 @@ title:        guanguans
 tagline:      No practice, no gain in one's wit.
 baseurl:      ""
 paginate:     1
-locale:       "zh"
+locale:       "en_US"
 
 # About/contact
 author:
@@ -16,5 +16,5 @@ author:
 gems:
   - jekyll-paginate
 
-#Others
+# Others
 markdown: kramdown
