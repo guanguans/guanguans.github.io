@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "SummerMagic",
+      "name": "Magic",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10607961?v=4",
+      "profile": "https://github.com/SummerMagic",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "guanguans.github.io",
+  "projectOwner": "guanguans",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
