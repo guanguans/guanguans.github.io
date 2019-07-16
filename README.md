@@ -18,6 +18,8 @@
 <ul>
     <li><a target="_blank" href="https://guanguans.github.io/dnmp-plus/">dnmp-plus</a> - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui(优化系统性能、定位 Bug 神器)</li>
     <li><a target="_blank" href="https://guanguans.github.io/music-php/">music-php</a> - 命令行全网音乐搜索和下载</li>
+    <li><a target="_blank" href="https://guanguans.github.io/soar-php/">soar-php</a> - 一个基于 soar 开发的 sql 语句调优的 PHP 扩展包</li>
+    <li><a target="_blank" href="https://guanguans.github.io/think-soar/">think-soar</a> - 适用于 thinkphp 中 sql 语句调优的扩展包，自动报告页面内 sql 语句评分和对 explain sql 信息解读</li>
     <li><a target="_blank" href="https://guanguans.github.io/notes/">notes</a> - 个人学习笔记</li>
     <li><a target="_blank" href="https://guanguans.github.io/design-patterns-for-humans-cn/">design-patterns-for-humans-cn</a> - Design patterns for humans 中文版</li>
     <li><a target="_blank" href="https://guanguans.github.io/favorite-link/">favorite-link</a> - 每天收集喜欢的项目和网址</li>
