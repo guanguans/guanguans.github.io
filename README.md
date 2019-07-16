@@ -16,7 +16,7 @@
 
 <h2>项目</h2>
 <ul>
-    <li><a target="_blank" href="https://guanguans.github.io/dnmp-plus/">dnmp-plus</a> - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui(优化系统性能、定位 Bug 神器)</li>
+    <li><a target="_blank" href="https://guanguans.github.io/dnmp-plus/">dnmp-plus</a> - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui</li>
     <li><a target="_blank" href="https://guanguans.github.io/music-php/">music-php</a> - 命令行全网音乐搜索和下载</li>
     <li><a target="_blank" href="https://guanguans.github.io/soar-php/">soar-php</a> - 一个基于 soar 开发的 sql 语句调优的 PHP 扩展包</li>
     <li><a target="_blank" href="https://guanguans.github.io/think-soar/">think-soar</a> - 适用于 thinkphp 中 sql 语句调优的扩展包，自动报告页面内 sql 语句评分和对 explain sql 信息解读</li>
@@ -29,7 +29,7 @@
 
 <h2><a target="_blank" href="https://github.com/guanguans/guanguans/labels/Docker">Docker</a></h2>
 <ul>
-    <li><a target="_blank" href="https://github.com/guanguans/guanguans/issues/9">Docker 的 LNMP 一键安装开发环境与 PHP 非侵入式监控平台 xhgui(优化系统性能、定位 Bug 神器)的安装使用</a></li>
+    <li><a target="_blank" href="https://github.com/guanguans/guanguans/issues/9">Docker 的 LNMP 一键安装开发环境与 PHP 非侵入式监控平台 xhgui 的安装使用</a></li>
 </ul>
 
 <h2><a target="_blank" href="https://github.com/guanguans/guanguans/labels/PHP">PHP</a></h2>
