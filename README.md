@@ -1,5 +1,7 @@
 <h1>琯琯博客</h1>
 
+:exclamation: 请不要打开新的 Issue。
+
 [![Build Status](https://travis-ci.org/guanguans/guanguans.github.io.svg?branch=master)](https://travis-ci.org/guanguans/guanguans.github.io)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans?ref=badge_shield)
