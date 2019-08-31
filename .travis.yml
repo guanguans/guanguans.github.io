@@ -4,7 +4,7 @@ node_js:
   - '10'
 
 before_script:
-  - npm i -g lint-md
+  - npm i -g lint-md-cli
 
 script:
   - lint-md *.md
