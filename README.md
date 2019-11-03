@@ -54,6 +54,7 @@
 
 <h2><a target="_blank" href="https://github.com/guanguans/guanguans/labels/%E5%85%B6%E4%BB%96">其他</a></h2>
 <ul>
+    <li><a target="_blank" href="https://github.com/guanguans/guanguans.github.io/issues/13">VScode 远程开发配置</a></li>
     <li><a target="_blank" href="https://github.com/guanguans/guanguans/issues/1">Hello world</a></li>
 </ul>
 
