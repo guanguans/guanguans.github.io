@@ -63,8 +63,8 @@
 * [VScode 远程开发配置](https://github.com/guanguans/guanguans.github.io/issues/13)
 * [Hello world](https://github.com/guanguans/guanguans.github.io/issues/1)
 
-## [License](https://github.com/guanguans/guanguans.github.io/LICENSE)
+## License
 
-[MIT](https://github.com/guanguans/guanguans.github.io/LICENSE)
+[MIT](https://github.com/guanguans/guanguans.github.io/blob/master/LICENSE)
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans?ref=badge_large)
