@@ -1,6 +1,6 @@
 # 琯琯博客
 
-[![guanguans's github stats](https://github-readme-stats.vercel.app/api?username=guanguans)](https://www.guanguans.cn)
+[![guanguans's github stats](https://github-readme-stats.vercel.app/api?username=guanguans&hide=commits&show_icons=true&theme=default)](https://www.guanguans.cn)
 
 请不要打开新的 Issue ！
 
