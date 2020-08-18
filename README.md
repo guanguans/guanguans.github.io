@@ -11,8 +11,8 @@
     <thead>
         <tr>
             <th><a href="https://github.com/guanguans">项目</a></th>
-            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Docker">Docker</a></th>
             <th><a href="https://github.com/guanguans/guanguans.github.io/labels/PHP">PHP</a></th>
+            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Docker">Docker</a></th>
             <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Git">Git</a></th>
             <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Github">Github</a></th>
             <th><a href="https://github.com/guanguans/guanguans.github.io/labels/其他">其他</a></th>
@@ -35,14 +35,17 @@
 * [awesome-mongodb-cn](https://github.com/guanguans/awesome-mongodb-cn) - Awesome MongoDB 中文版
 * [lingqiu-folk-story](https://github.com/folkstory/lingqiu-folk-story) - 民间故事合集
 
+## [PHP](https://github.com/guanguans/guanguans.github.io/labels/PHP)
+
+* [适配于 Yii 的 alipay 和 wechat 的支付扩展包](https://github.com/guanguans/guanguans.github.io/issues/26)
+* [laravel 中轻松容易的输出完整的 SQL 语句](https://github.com/guanguans/guanguans.github.io/issues/27)
+* [适配于 Yii 的极光推送 SDK](https://github.com/guanguans/guanguans.github.io/issues/28)
+* [Composer 加速下载](https://github.com/guanguans/guanguans.github.io/issues/5)
+* [Tideways、xhprof 和 xhgui 打造 PHP 非侵入式监控平台](https://github.com/guanguans/guanguans.github.io/issues/8)
+
 ## [Docker](https://github.com/guanguans/guanguans.github.io/labels/Docker)
 
 * [Docker 的 LNMP 一键安装开发环境与 PHP 非侵入式监控平台 xhgui 的安装使用](https://github.com/guanguans/guanguans.github.io/issues/9)
-
-## [PHP](https://github.com/guanguans/guanguans.github.io/labels/PHP)
-
-* [Composer 加速下载](https://github.com/guanguans/guanguans.github.io/issues/5)
-* [Tideways、xhprof 和 xhgui 打造 PHP 非侵入式监控平台](https://github.com/guanguans/guanguans.github.io/issues/8)
 
 ## [Git](https://github.com/guanguans/guanguans.github.io/labels/Git)
 
