@@ -42,12 +42,12 @@
 * [soar-php](https://github.com/guanguans/soar-php) - 一个基于 soar 开发的 sql 语句调优的 PHP 扩展包
 * [think-soar](https://github.com/guanguans/think-soar) - 适用于 thinkphp 中 sql 语句调优的扩展包，自动报告页面内 sql 语句评分和对 explain sql 信息解读
 * [notes](https://github.com/guanguans/notes) - 个人学习笔记
-* [dnmp-plus](https://github.com/guanguans/design-patterns-for-humans-cn) - Design patterns for humans 中文版
+* [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - Design patterns for humans 中文版
 * [favorite-link](https://github.com/guanguans/favorite-link) - 每天收集喜欢的项目和网址
-* [favorite-link](https://github.com/guanguans/awesome-mongodb-cn) - Awesome MongoDB 中文版
+* [awesome-mongodb-cn](https://github.com/guanguans/awesome-mongodb-cn) - Awesome MongoDB 中文版
 * [lingqiu-folk-story](https://github.com/guanguans/lingqiu-folk-story) - 民间故事合集
 
-## [Docker](https://github.com/guanguans/guanguans/labels/Docker")
+## [Docker](https://github.com/guanguans/guanguans/labels/Docker)
 
 * [Docker 的 LNMP 一键安装开发环境与 PHP 非侵入式监控平台 xhgui 的安装使用](https://github.com/guanguans/guanguans/issues/9)
 
