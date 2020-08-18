@@ -26,6 +26,9 @@
 * [music-php](https://github.com/guanguans/music-php) - 命令行全网音乐搜索和下载
 * [soar-php](https://github.com/guanguans/soar-php) - 一个基于 soar 开发的 sql 语句调优的 PHP 扩展包
 * [think-soar](https://github.com/guanguans/think-soar) - 适用于 thinkphp 中 sql 语句调优的扩展包，自动报告页面内 sql 语句评分和对 explain sql 信息解读
+* [yii-pay](https://github.com/guanguans/yii-pay) - 适配于 Yii 的 alipay 和 wechat 的支付扩展包
+* [yii-jpush](https://github.com/guanguans/yii-jpush) - 适配于 Yii 的极光推送 SDK
+* [laravel-dump-sql](https://github.com/guanguans/laravel-dump-sql) - laravel 中轻松容易的输出完整的 SQL 语句
 * [notes](https://github.com/guanguans/notes) - 个人学习笔记
 * [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - Design patterns for humans 中文版
 * [favorite-link](https://github.com/guanguans/favorite-link) - 每天收集喜欢的项目和网址
