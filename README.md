@@ -5,8 +5,18 @@
 [![Build Status](https://travis-ci.org/guanguans/guanguans.github.io.svg?branch=master)](https://travis-ci.org/guanguans/guanguans.github.io)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans?ref=badge_shield)
 
-[项目](https://github.com/guanguans) | [Docker](https://github.com/guanguans/guanguans/labels/Docker) | [PHP](https://github.com/guanguans/guanguans.github.io/labels/PHP) | [Git](https://github.com/guanguans/guanguans.github.io/labels/Git) | [Github](https://github.com/guanguans/guanguans.github.io/labels/Github) | [其他](https://github.com/guanguans/guanguans.github.io/labels/%E5%85%B6%E4%BB%96)
----|---|---|---|---|---
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://github.com/guanguans">项目</a></th>
+            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Docker">Docker</a></th>
+            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/PHP">PHP</a></th>
+            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Git">Git</a></th>
+            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Github">Github</a></th>
+            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/其他">其他</a></th>
+        </tr>
+    </thead>
+</table>
 
 ## [项目](https://github.com/guanguans)
 
@@ -18,7 +28,7 @@
 * [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - Design patterns for humans 中文版
 * [favorite-link](https://github.com/guanguans/favorite-link) - 每天收集喜欢的项目和网址
 * [awesome-mongodb-cn](https://github.com/guanguans/awesome-mongodb-cn) - Awesome MongoDB 中文版
-* [lingqiu-folk-story](https://github.com/guanguans/lingqiu-folk-story) - 民间故事合集
+* [lingqiu-folk-story](https://github.com/folkstory/lingqiu-folk-story) - 民间故事合集
 
 ## [Docker](https://github.com/guanguans/guanguans.github.io/labels/Docker)
 
