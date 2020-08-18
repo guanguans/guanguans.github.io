@@ -11,6 +11,7 @@
     <thead>
         <tr>
             <th><a href="https://github.com/guanguans">项目</a></th>
+            <th><a href="https://github.com/guanguans/guanguans.github.io/issues">全部</a></th>
             <th><a href="https://github.com/guanguans/guanguans.github.io/labels/PHP">PHP</a></th>
             <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Docker">Docker</a></th>
             <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Git">Git</a></th>
