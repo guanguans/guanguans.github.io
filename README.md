@@ -1,5 +1,7 @@
 # 琯琯博客
 
+[![guanguans's github stats](https://github-readme-stats.vercel.app/api?username=guanguans)](https://www.guanguans.cn)
+
 请不要打开新的 Issue ！
 
 [![Build Status](https://travis-ci.org/guanguans/guanguans.github.io.svg?branch=master)](https://travis-ci.org/guanguans/guanguans.github.io)
