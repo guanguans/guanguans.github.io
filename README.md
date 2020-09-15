@@ -53,6 +53,7 @@
 * [Git 修改任意一条提交记录信息](https://github.com/guanguans/guanguans.github.io/issues/4)
 * [Git submodule 的使用](https://github.com/guanguans/guanguans.github.io/issues/7)
 * [Commit message 和 Change log 编写指南](https://github.com/guanguans/guanguans.github.io/issues/2)
+* [解决 git 不存在的分支名称自动补全的问题](https://github.com/guanguans/guanguans.github.io/issues/29)
 
 ## [Github](https://github.com/guanguans/guanguans.github.io/labels/Github)
 
