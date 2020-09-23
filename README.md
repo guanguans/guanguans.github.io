@@ -43,6 +43,7 @@
 * [适配于 Yii 的极光推送 SDK](https://github.com/guanguans/guanguans.github.io/issues/28)
 * [Composer 加速下载](https://github.com/guanguans/guanguans.github.io/issues/5)
 * [Tideways、xhprof 和 xhgui 打造 PHP 非侵入式监控平台](https://github.com/guanguans/guanguans.github.io/issues/8)
+* [PHP 多进程处理任务](https://github.com/guanguans/guanguans.github.io/issues/31)
 
 ## [Docker](https://github.com/guanguans/guanguans.github.io/labels/Docker)
 
