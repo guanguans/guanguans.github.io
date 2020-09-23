@@ -44,6 +44,7 @@
 * [Composer 加速下载](https://github.com/guanguans/guanguans.github.io/issues/5)
 * [Tideways、xhprof 和 xhgui 打造 PHP 非侵入式监控平台](https://github.com/guanguans/guanguans.github.io/issues/8)
 * [PHP 多进程处理任务](https://github.com/guanguans/guanguans.github.io/issues/31)
+* [guzzlehttp/guzzle 配合 symfony/console 命令行中实现文件下载进度条](https://github.com/guanguans/guanguans.github.io/issues/32)
 
 ## [Docker](https://github.com/guanguans/guanguans.github.io/labels/Docker)
 
