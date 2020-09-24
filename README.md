@@ -66,6 +66,7 @@
 * [VScode 远程开发配置](https://github.com/guanguans/guanguans.github.io/issues/13)
 * [Hello world](https://github.com/guanguans/guanguans.github.io/issues/1)
 * [Mac 安装中文版 `man` 帮助命令](https://github.com/guanguans/guanguans.github.io/issues/30)
+* [设计模式简介（共收录 45 种）](https://github.com/guanguans/guanguans.github.io/issues/33)
 
 ## License
 
