@@ -27,6 +27,7 @@
 * [music-php](https://github.com/guanguans/music-php) - 命令行全网音乐搜索和下载
 * [soar-php](https://github.com/guanguans/soar-php) - 一个基于 soar 开发的 sql 语句调优的 PHP 扩展包
 * [think-soar](https://github.com/guanguans/think-soar) - 适用于 thinkphp 中 sql 语句调优的扩展包，自动报告页面内 sql 语句评分和对 explain sql 信息解读
+* [yii-goaop](https://github.com/guanguans/yii-goaop) - 将 goaop/framework 集成到 Yii
 * [yii-var-dumper](https://github.com/guanguans/yii-var-dumper) - 将 symfony/var-dumper 集成到 Yii
 * [yii-pay](https://github.com/guanguans/yii-pay) - 适配于 Yii 的 alipay 和 wechat 的支付扩展包
 * [yii-jpush](https://github.com/guanguans/yii-jpush) - 适配于 Yii 的极光推送 SDK
