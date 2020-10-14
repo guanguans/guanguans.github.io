@@ -49,6 +49,7 @@
 * [guzzlehttp/guzzle 配合 symfony/console 命令行中实现文件下载进度条](https://github.com/guanguans/guanguans.github.io/issues/32)
 * [将 symfony 的 dump server 集成到 Yii 中](https://github.com/guanguans/guanguans.github.io/issues/34)
 * [集成 goaop 到 Yii，在 Yii 中优雅的面向切面编程](https://github.com/guanguans/guanguans.github.io/issues/35)
+* [Yii 中特殊行为 ActionFilter 的使用示例](https://github.com/guanguans/guanguans.github.io/issues/36)
 
 ## [Docker](https://github.com/guanguans/guanguans.github.io/labels/Docker)
 
