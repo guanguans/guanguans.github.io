@@ -75,6 +75,6 @@
 
 ## License
 
-[MIT](https://github.com/guanguans/guanguans.github.io/blob/master/LICENSE)
+本作品采用[《署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)》](https://github.com/guanguans/guanguans.github.io/blob/master/LICENSE.md)，转载必须注明作者和本文链接
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans?ref=badge_large)
