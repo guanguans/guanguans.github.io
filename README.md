@@ -31,6 +31,7 @@
 * [yii-var-dumper](https://github.com/guanguans/yii-var-dumper) - 将 symfony/var-dumper 集成到 Yii
 * [yii-pay](https://github.com/guanguans/yii-pay) - 适配于 Yii 的 alipay 和 wechat 的支付扩展包
 * [yii-jpush](https://github.com/guanguans/yii-jpush) - 适配于 Yii 的极光推送 SDK
+* [yii-event](https://github.com/guanguans/yii-event) - 一个 Yii 中优雅的使用事件扩展包
 * [laravel-dump-sql](https://github.com/guanguans/laravel-dump-sql) - laravel 中轻松容易的输出完整的 SQL 语句
 * [notes](https://github.com/guanguans/notes) - 个人学习笔记
 * [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - Design patterns for humans 中文版
@@ -50,6 +51,7 @@
 * [将 symfony 的 dump server 集成到 Yii 中](https://github.com/guanguans/guanguans.github.io/issues/34)
 * [集成 goaop 到 Yii，在 Yii 中优雅的面向切面编程](https://github.com/guanguans/guanguans.github.io/issues/35)
 * [Yii 中特殊行为 ActionFilter 的使用示例](https://github.com/guanguans/guanguans.github.io/issues/36)
+* [Yii 中优雅的使用事件](https://github.com/guanguans/guanguans.github.io/issues/37)
 
 ## [Docker](https://github.com/guanguans/guanguans.github.io/labels/Docker)
 
