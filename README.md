@@ -2,10 +2,7 @@
 
 [![guanguans's github stats](https://github-readme-stats.vercel.app/api?username=guanguans&hide=commits&show_icons=true&theme=default)](https://www.guanguans.cn)
 
-请不要打开新的 Issue ！
-
-[![Build Status](https://travis-ci.org/guanguans/guanguans.github.io.svg?branch=master)](https://travis-ci.org/guanguans/guanguans.github.io)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fguanguans%2Fguanguans?ref=badge_shield)
+请不要打开新的 Issue 了！
 
 <table>
     <thead>
