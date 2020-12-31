@@ -2,7 +2,7 @@
 
 [![guanguans's github stats](https://github-readme-stats.vercel.app/api?username=guanguans&hide=commits&show_icons=true&theme=default)](https://www.guanguans.cn)
 
-请不要打开新的 Issue 了！
+请不要打开新的 `issue` 了！
 
 <table>
     <thead>
