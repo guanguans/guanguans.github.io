@@ -21,21 +21,14 @@
 ## [项目](https://github.com/guanguans)
 
 * [coole](https://github.com/guanguans/coole) - Coole 是一个基于开源组件包构建的 PHP 微框架
-* [dnmp-plus](https://github.com/guanguans/dnmp-plus) - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui
 * [music-php](https://github.com/guanguans/music-php) - 命令行全网音乐搜索和下载
 * [soar-php](https://github.com/guanguans/soar-php) - 一个基于 soar 开发的 sql 语句调优的 PHP 扩展包
-* [think-soar](https://github.com/guanguans/think-soar) - 适用于 thinkphp 中 sql 语句调优的扩展包，自动报告页面内 sql 语句评分和对 explain sql 信息解读
 * [yii-goaop](https://github.com/guanguans/yii-goaop) - 将 goaop/framework 集成到 Yii
 * [yii-var-dumper](https://github.com/guanguans/yii-var-dumper) - 将 symfony/var-dumper 集成到 Yii
-* [yii-pay](https://github.com/guanguans/yii-pay) - 适配于 Yii 的 alipay 和 wechat 的支付扩展包
-* [yii-jpush](https://github.com/guanguans/yii-jpush) - 适配于 Yii 的极光推送 SDK
 * [yii-event](https://github.com/guanguans/yii-event) - 一个 Yii 中优雅的使用事件扩展包
 * [laravel-dump-sql](https://github.com/guanguans/laravel-dump-sql) - laravel 中轻松容易的输出完整的 SQL 语句
-* [notes](https://github.com/guanguans/notes) - 个人学习笔记
-* [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - Design patterns for humans 中文版
-* [favorite-link](https://github.com/guanguans/favorite-link) - 每天收集喜欢的项目和网址
-* [awesome-mongodb-cn](https://github.com/guanguans/awesome-mongodb-cn) - Awesome MongoDB 中文版
-* [lingqiu-folk-story](https://github.com/folkstory/lingqiu-folk-story) - 民间故事合集
+* [id-validator](https://github.com/guanguans/id-validator) - Go 版中国身份证号验证
+* [dnmp-plus](https://github.com/guanguans/dnmp-plus) - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui
 
 ## [PHP](https://github.com/guanguans/guanguans.github.io/labels/PHP)
 
