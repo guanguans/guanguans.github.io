@@ -23,8 +23,8 @@
 * [coole](https://github.com/guanguans/coole) - Coole 是一个基于开源组件包构建的 PHP 微框架
 * [music-php](https://github.com/guanguans/music-php) - 命令行全网音乐搜索和下载
 * [soar-php](https://github.com/guanguans/soar-php) - 一个基于 soar 开发的 sql 语句调优的 PHP 扩展包
-* [yii-goaop](https://github.com/guanguans/yii-goaop) - 将 goaop/framework 集成到 Yii
 * [yii-var-dumper](https://github.com/guanguans/yii-var-dumper) - 将 symfony/var-dumper 集成到 Yii
+* [yii-goaop](https://github.com/guanguans/yii-goaop) - 将 goaop/framework 集成到 Yii，在 Yii 中优雅的面向切面编程
 * [yii-event](https://github.com/guanguans/yii-event) - 一个 Yii 中优雅的使用事件扩展包
 * [laravel-dump-sql](https://github.com/guanguans/laravel-dump-sql) - laravel 中轻松容易的输出完整的 SQL 语句
 * [id-validator](https://github.com/guanguans/id-validator) - Go 版中国身份证号验证
