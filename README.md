@@ -44,6 +44,7 @@
 * [集成 goaop 到 Yii，在 Yii 中优雅的面向切面编程](https://github.com/guanguans/guanguans.github.io/issues/35)
 * [Yii 中特殊行为 ActionFilter 的使用示例](https://github.com/guanguans/guanguans.github.io/issues/36)
 * [Yii 中优雅的使用事件](https://github.com/guanguans/guanguans.github.io/issues/37)
+* [用 symfony/options-resolver 优雅的校验类初始化选项](https://github.com/guanguans/guanguans.github.io/issues/39)
 
 ## [Docker](https://github.com/guanguans/guanguans.github.io/labels/Docker)
 
