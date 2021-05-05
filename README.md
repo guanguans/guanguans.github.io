@@ -18,7 +18,7 @@
     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=guanguans&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 </a>
 
-*请不要打开新的 `issue` 了！*
+*请不要在本仓库打开新的 `issue` 了！*
 
 ## [项目](https://github.com/guanguans)
 
