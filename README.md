@@ -27,6 +27,7 @@
 * [coole](https://www.guanguans.cn/coole/#/) - Coole 是一个基于开源组件包构建的 PHP 微框架
 * [music-php](https://github.com/guanguans/music-php) - 命令行全网音乐搜索和下载
 * [soar-php](https://github.com/guanguans/soar-php) - 一个基于 soar 开发的 sql 语句调优的 PHP 扩展包
+* [notify](https://github.com/guanguans/notify) - 多平台通知 SDK(Bark、Chanify、钉钉群机器人、飞书群机器人、Server 酱、企业微信群机器人、息知)
 * [yii-var-dumper](https://github.com/guanguans/yii-var-dumper) - 将 symfony/var-dumper 集成到 Yii
 * [yii-goaop](https://github.com/guanguans/yii-goaop) - 将 goaop/framework 集成到 Yii，在 Yii 中优雅的面向切面编程
 * [yii-event](https://github.com/guanguans/yii-event) - 一个 Yii 中优雅的使用事件扩展包
