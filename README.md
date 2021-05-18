@@ -50,6 +50,7 @@
 * [Yii 中特殊行为 ActionFilter 的使用示例](https://github.com/guanguans/guanguans.github.io/issues/36)
 * [Yii 中优雅的使用事件](https://github.com/guanguans/guanguans.github.io/issues/37)
 * [用 symfony/options-resolver 优雅的校验类初始化选项](https://github.com/guanguans/guanguans.github.io/issues/39)
+* [PHP Callback/Callable 类型使用](https://github.com/guanguans/guanguans.github.io/issues/40)
 
 ## [Docker](https://github.com/guanguans/guanguans.github.io/labels/Docker)
 
