@@ -32,7 +32,7 @@
 * [yii-goaop](https://github.com/guanguans/yii-goaop) - 将 goaop/framework 集成到 Yii，在 Yii 中优雅的面向切面编程
 * [yii-event](https://github.com/guanguans/yii-event) - 一个 Yii 中优雅的使用事件扩展包
 * [laravel-soar](https://github.com/guanguans/laravel-soar) - 在 Laravel 应用程序中轻松容易的优化 sql 语句的扩展包
-* [laravel-dump-sql](https://github.com/guanguans/laravel-dump-sql) - laravel 中轻松容易的输出完整的 SQL 语句
+* [laravel-dump-sql](https://github.com/guanguans/laravel-dump-sql) - Laravel 中轻松容易的输出完整的 SQL 语句
 * [id-validator](https://github.com/guanguans/id-validator) - Go 版中国身份证号验证
 * [dnmp-plus](https://github.com/guanguans/dnmp-plus) - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui
 
