@@ -52,6 +52,7 @@
 * [Yii 中优雅的使用事件](https://github.com/guanguans/guanguans.github.io/issues/37)
 * [用 symfony/options-resolver 优雅的校验类初始化选项](https://github.com/guanguans/guanguans.github.io/issues/39)
 * [PHP Callback/Callable 类型使用](https://github.com/guanguans/guanguans.github.io/issues/40)
+* [PHP 字符串中直接解析函数的写法](https://github.com/guanguans/guanguans.github.io/issues/41)
 
 ## [Docker](https://github.com/guanguans/guanguans.github.io/labels/Docker)
 
