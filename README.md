@@ -10,6 +10,7 @@
             <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Git">Git</a></th>
             <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Github">Github</a></th>
             <th><a href="https://github.com/guanguans/guanguans.github.io/labels/其他">其他</a></th>
+            <th><a href="https://www.guanguans.cn/sponsors">sponsor me</a></th>
         </tr>
     </thead>
 </table>
