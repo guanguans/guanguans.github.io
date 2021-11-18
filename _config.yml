@@ -9,8 +9,8 @@ locale:       "en_US"
 
 # About/contact
 author:
-  name:       琯琯
-  url:        https://guanguans.github.io 
+  name:       guanguans
+  url:        https://guanguans.github.io
 
 # Gems
 gems:
