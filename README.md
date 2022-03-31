@@ -28,7 +28,7 @@
 * [coole](https://www.guanguans.cn/coole/#/) - Coole 是一个基于开源组件包构建的 PHP 微框架
 * [music-dl](https://github.com/guanguans/music-dl) - 命令行全网音乐搜索下载器
 * [soar-php](https://github.com/guanguans/soar-php) - SQL 优化、重写器(辅助 SQL 调优)
-* [notify](https://github.com/guanguans/notify) - 推送通知 sdk(支持 20+ 平台)
+* [notify](https://github.com/guanguans/notify) - 推送通知 sdk(支持 25+ 平台)
 * [laravel-exception-notify](https://github.com/guanguans/laravel-exception-notify) - Laravel 中异常监控报警通知
 * [laravel-soar](https://github.com/guanguans/laravel-soar) - 辅助 laravel 应用 sql 优化、重写
 * [laravel-dump-sql](https://github.com/guanguans/laravel-dump-sql) - 辅助 laravel 应用获取完整的 sql 语句
