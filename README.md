@@ -26,15 +26,16 @@
 ## [项目](https://github.com/guanguans)
 
 * [coole](https://www.guanguans.cn/coole/#/) - Coole 是一个基于开源组件包构建的 PHP 微框架
-* [music-php](https://github.com/guanguans/music-php) - 命令行全网音乐搜索和下载
-* [soar-php](https://github.com/guanguans/soar-php) - 一个基于 soar 开发的 sql 语句调优的 PHP 扩展包
-* [notify](https://github.com/guanguans/notify) - 多平台通知 SDK(Bark、Chanify、钉钉群机器人、飞书群机器人、Server 酱、企业微信群机器人、息知)
+* [music-dl](https://github.com/guanguans/music-dl) - 命令行全网音乐搜索下载器
+* [soar-php](https://github.com/guanguans/soar-php) - SQL 优化、重写器(辅助 SQL 调优)
+* [notify](https://github.com/guanguans/notify) - 推送通知 sdk(支持 20+ 平台)
+* [laravel-exception-notify](https://github.com/guanguans/laravel-exception-notify) - Laravel 中异常监控报警通知
+* [laravel-soar](https://github.com/guanguans/laravel-soar) - 辅助 laravel 应用 sql 优化、重写
+* [laravel-dump-sql](https://github.com/guanguans/laravel-dump-sql) - 辅助 laravel 应用获取完整的 sql 语句
 * [yii-var-dumper](https://github.com/guanguans/yii-var-dumper) - 将 symfony/var-dumper 集成到 Yii
 * [yii-goaop](https://github.com/guanguans/yii-goaop) - 将 goaop/framework 集成到 Yii，在 Yii 中优雅的面向切面编程
 * [yii-event](https://github.com/guanguans/yii-event) - 一个 Yii 中优雅的使用事件扩展包
-* [laravel-soar](https://github.com/guanguans/laravel-soar) - 在 Laravel 应用程序中轻松容易的优化 sql 语句的扩展包
-* [laravel-dump-sql](https://github.com/guanguans/laravel-dump-sql) - Laravel 中轻松容易的输出完整的 SQL 语句
-* [id-validator](https://github.com/guanguans/id-validator) - Go 版中国身份证号验证
+* [id-validator](https://github.com/guanguans/id-validator) - Go 版中国身份证号验证器
 * [dnmp-plus](https://github.com/guanguans/dnmp-plus) - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui
 
 ## [PHP](https://github.com/guanguans/guanguans.github.io/labels/PHP)
