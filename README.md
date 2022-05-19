@@ -40,6 +40,7 @@
 
 ## [PHP](https://github.com/guanguans/guanguans.github.io/labels/PHP)
 
+* [分享一个便捷、通用的 laravel 模型属性转换器](https://github.com/guanguans/guanguans.github.io/issues/44)
 * [laravel 中根据请求路径、方法匹配路由实例](https://github.com/guanguans/guanguans.github.io/issues/43)
 * [组建自己的 PHP 框架](https://github.com/guanguans/guanguans.github.io/issues/38)
 * [适配于 Yii 的 alipay 和 wechat 的支付扩展包](https://github.com/guanguans/guanguans.github.io/issues/26)
