@@ -44,6 +44,7 @@
 
 ## 2022
 
+* 2022-06-22 - [https://github.com/guanguans/guanguans.github.io/issues/45](https://github.com/guanguans/guanguans.github.io/issues/45)
 * 2022-05-19 - [分享一个便捷、通用的 laravel 模型属性转换器](https://github.com/guanguans/guanguans.github.io/issues/44)
 * 2022-03-31 - [laravel 中根据请求路径、方法匹配路由实例](https://github.com/guanguans/guanguans.github.io/issues/43)
 
