@@ -44,7 +44,7 @@
 
 ## 2022
 
-* 2022-07-05 - [laravel 中多列 in 特殊查询类型解决方案](https://github.com/guanguans/guanguans.github.io/issues/46)
+* 2022-07-05 - [laravel 中 in 多列特殊查询类型解决方案](https://github.com/guanguans/guanguans.github.io/issues/46)
 * 2022-06-22 - [分享一个简单的 laravel 应用健康检查命令](https://github.com/guanguans/guanguans.github.io/issues/45)
 * 2022-05-19 - [分享一个便捷、通用的 laravel 模型属性转换器](https://github.com/guanguans/guanguans.github.io/issues/44)
 * 2022-03-31 - [laravel 中根据请求路径、方法匹配路由实例](https://github.com/guanguans/guanguans.github.io/issues/43)
