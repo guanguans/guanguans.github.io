@@ -44,6 +44,7 @@
 
 ## 2022
 
+* 2022-10-13 - [PHP-Parser 应用之生成源代码的单元测试方法](https://github.com/guanguans/guanguans.github.io/issues/50)
 * 2022-09-07 - [PHP-Parser 应用之扫描发现代码中的打印、输出结构语句](https://github.com/guanguans/guanguans.github.io/issues/49)
 * 2022-08-24 - [Laravel 应用中快速的创建不同类型的代理](https://github.com/guanguans/guanguans.github.io/issues/48)
 * 2022-07-11 - [递归匿名函数手动实现 http_build_query 系统函数](https://github.com/guanguans/guanguans.github.io/issues/47)
