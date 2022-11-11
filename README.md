@@ -1,6 +1,6 @@
-# [guanguans 博客](https://www.guanguans.cn)
+# guanguans 博客
 
-## [标签](https://github.com/guanguans/guanguans.github.io/labels)
+## 标签
 
 [`Design Pattern`](https://github.com/guanguans/guanguans.github.io/labels/Design%20Pattern) [`Docker`](https://github.com/guanguans/guanguans.github.io/labels/Docker) [`Git`](https://github.com/guanguans/guanguans.github.io/labels/Git) [`Github`](https://github.com/guanguans/guanguans.github.io/labels/Github) [`Golang`](https://github.com/guanguans/guanguans.github.io/labels/Golang) [`JavaScript`](https://github.com/guanguans/guanguans.github.io/labels/JavaScript) [`Laravel`](https://github.com/guanguans/guanguans.github.io/labels/Laravel) [`MySQL`](https://github.com/guanguans/guanguans.github.io/labels/MySQL) [`Nginx`](https://github.com/guanguans/guanguans.github.io/labels/Nginx) [`PHP`](https://github.com/guanguans/guanguans.github.io/labels/PHP) [`SQL`](https://github.com/guanguans/guanguans.github.io/labels/SQL) [`Symfony`](https://github.com/guanguans/guanguans.github.io/labels/Symfony) [`ThinkPHP`](https://github.com/guanguans/guanguans.github.io/labels/ThinkPHP) [`Yii`](https://github.com/guanguans/guanguans.github.io/labels/Yii) [`其他`](https://github.com/guanguans/guanguans.github.io/labels/其他)
 
@@ -64,18 +64,7 @@
 * 2019-04-24 - [Commit message 和 Change log 编写指南](https://github.com/guanguans/guanguans.github.io/issues/2)
 * 2019-03-21 - [Hello world](https://github.com/guanguans/guanguans.github.io/issues/1)
 
-## Sponsor me
-
-[Sponsor me](https://www.guanguans.cn/sponsors)
-
-<table>
-    <thead>
-        <tr>
-            <th><img src="images/alipay.jpeg"/></th>
-            <th><img src="images/wechat.jpeg"/></th>
-        </tr>
-    </thead>
-</table>
+## [Sponsor me](https://www.guanguans.cn/sponsors)
 
 ## [License](https://github.com/guanguans/guanguans.github.io/blob/master/LICENSE.md)
 
