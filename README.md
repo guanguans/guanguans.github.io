@@ -1,19 +1,4 @@
-# guanguans 博客
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://github.com/guanguans">项目</a></th>
-            <th><a href="https://github.com/guanguans/guanguans.github.io/issues">全部</a></th>
-            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/PHP">PHP</a></th>
-            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Docker">Docker</a></th>
-            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Git">Git</a></th>
-            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/Github">Github</a></th>
-            <th><a href="https://github.com/guanguans/guanguans.github.io/labels/其他">其他</a></th>
-            <th><a href="https://www.guanguans.cn/sponsors">sponsor me</a></th>
-        </tr>
-    </thead>
-</table>
+# [guanguans 博客](https://github.com/guanguans)
 
 <a href="https://www.guanguans.cn" alt="guanguans's github stats">
     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=guanguans&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
@@ -22,6 +7,10 @@
 <!--
 *请不要在本仓库打开新的 `issue` 了！*
 -->
+
+## 标签
+
+[`Design Pattern`](https://github.com/guanguans/guanguans.github.io/labels/Design%20Pattern) [`Docker`](https://github.com/guanguans/guanguans.github.io/labels/Docker) [`Git`](https://github.com/guanguans/guanguans.github.io/labels/Git) [`Github`](https://github.com/guanguans/guanguans.github.io/labels/Github) [`Golang`](https://github.com/guanguans/guanguans.github.io/labels/Golang) [`JavaScript`](https://github.com/guanguans/guanguans.github.io/labels/JavaScript) [`Laravel`](https://github.com/guanguans/guanguans.github.io/labels/Laravel) [`MySQL`](https://github.com/guanguans/guanguans.github.io/labels/MySQL) [`Nginx`](https://github.com/guanguans/guanguans.github.io/labels/Nginx) [`PHP`](https://github.com/guanguans/guanguans.github.io/labels/PHP) [`SQL`](https://github.com/guanguans/guanguans.github.io/labels/SQL) [`Symfony`](https://github.com/guanguans/guanguans.github.io/labels/Symfony) [`ThinkPHP`](https://github.com/guanguans/guanguans.github.io/labels/ThinkPHP) [`Yii`](https://github.com/guanguans/guanguans.github.io/labels/Yii) [`其他`](https://github.com/guanguans/guanguans.github.io/labels/其他)
 
 ## [项目](https://github.com/guanguans)
 
@@ -37,10 +26,6 @@
 * [yii-event](https://github.com/guanguans/yii-event) - 一个 Yii 中优雅的使用事件扩展包
 * [id-validator](https://github.com/guanguans/id-validator) - Go 版中国身份证号验证器
 * [dnmp-plus](https://github.com/guanguans/dnmp-plus) - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui
-
-## 标签
-
-[`Design Pattern`](https://github.com/guanguans/guanguans.github.io/labels/Design%20Pattern) [`Docker`](https://github.com/guanguans/guanguans.github.io/labels/Docker) [`Git`](https://github.com/guanguans/guanguans.github.io/labels/Git) [`Github`](https://github.com/guanguans/guanguans.github.io/labels/Github) [`Golang`](https://github.com/guanguans/guanguans.github.io/labels/Golang) [`JavaScript`](https://github.com/guanguans/guanguans.github.io/labels/JavaScript) [`Laravel`](https://github.com/guanguans/guanguans.github.io/labels/Laravel) [`MySQL`](https://github.com/guanguans/guanguans.github.io/labels/MySQL) [`Nginx`](https://github.com/guanguans/guanguans.github.io/labels/Nginx) [`PHP`](https://github.com/guanguans/guanguans.github.io/labels/PHP) [`SQL`](https://github.com/guanguans/guanguans.github.io/labels/SQL) [`Symfony`](https://github.com/guanguans/guanguans.github.io/labels/Symfony) [`ThinkPHP`](https://github.com/guanguans/guanguans.github.io/labels/ThinkPHP) [`Yii`](https://github.com/guanguans/guanguans.github.io/labels/Yii) [`其他`](https://github.com/guanguans/guanguans.github.io/labels/其他)
 
 ## 2022
 
@@ -86,6 +71,10 @@
 * 2019-05-06 - [Github 导航栏加强](https://github.com/guanguans/guanguans.github.io/issues/3)
 * 2019-04-24 - [Commit message 和 Change log 编写指南](https://github.com/guanguans/guanguans.github.io/issues/2)
 * 2019-03-21 - [Hello world](https://github.com/guanguans/guanguans.github.io/issues/1)
+
+## Sponsor me
+
+[sponsor me](https://www.guanguans.cn/sponsors)
 
 ## License
 
