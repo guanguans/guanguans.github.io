@@ -1,4 +1,4 @@
-# sponsor me
+# Sponsor me
 
 <table>
     <thead>
