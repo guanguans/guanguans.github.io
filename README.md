@@ -64,7 +64,7 @@
 * 2019-04-24 - [Commit message 和 Change log 编写指南](https://github.com/guanguans/guanguans.github.io/issues/2)
 * 2019-03-21 - [Hello world](https://github.com/guanguans/guanguans.github.io/issues/1)
 
-## Sponsor me](https://www.guanguans.cn/sponsors
+## Sponsor me
 
 [Sponsor me](https://www.guanguans.cn/sponsors)
 
