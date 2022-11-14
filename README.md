@@ -70,4 +70,4 @@
 
 ## License
 
-本作品采用[《署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)》](https://github.com/guanguans/guanguans.github.io/blob/master/LICENSE.md)许可协议，转载必须注明作者和本文链接
+本作品采用[《署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)》](https://github.com/guanguans/guanguans.github.io/blob/master/LICENSE.md)许可协议，转载必须注明作者和本文链接。
