@@ -19,6 +19,10 @@
 * [id-validator](https://github.com/guanguans/id-validator) - Go 版中国身份证号验证器
 * [dnmp-plus](https://github.com/guanguans/dnmp-plus) - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui
 
+## 2023
+
+* 2023-04-20 - [使用 OpenAI Finetune API 创建自己的微调模型](https://github.com/guanguans/guanguans.github.io/issues/51)
+
 ## 2022
 
 * 2022-10-13 - [PHP-Parser 应用之生成源代码的单元测试方法](https://github.com/guanguans/guanguans.github.io/issues/50)
