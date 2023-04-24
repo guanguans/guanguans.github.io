@@ -2,12 +2,13 @@
 
 ## 标签
 
-[`Design Pattern`](https://github.com/guanguans/guanguans.github.io/labels/Design%20Pattern) [`Docker`](https://github.com/guanguans/guanguans.github.io/labels/Docker) [`Git`](https://github.com/guanguans/guanguans.github.io/labels/Git) [`Github`](https://github.com/guanguans/guanguans.github.io/labels/Github) [`Golang`](https://github.com/guanguans/guanguans.github.io/labels/Golang) [`JavaScript`](https://github.com/guanguans/guanguans.github.io/labels/JavaScript) [`Laravel`](https://github.com/guanguans/guanguans.github.io/labels/Laravel) [`MySQL`](https://github.com/guanguans/guanguans.github.io/labels/MySQL) [`Nginx`](https://github.com/guanguans/guanguans.github.io/labels/Nginx) [`PHP`](https://github.com/guanguans/guanguans.github.io/labels/PHP) [`SQL`](https://github.com/guanguans/guanguans.github.io/labels/SQL) [`Symfony`](https://github.com/guanguans/guanguans.github.io/labels/Symfony) [`ThinkPHP`](https://github.com/guanguans/guanguans.github.io/labels/ThinkPHP) [`Yii`](https://github.com/guanguans/guanguans.github.io/labels/Yii) [`其他`](https://github.com/guanguans/guanguans.github.io/labels/其他)
+[`AI`](https://github.com/guanguans/guanguans.github.io/labels/AI) [`Design Pattern`](https://github.com/guanguans/guanguans.github.io/labels/Design%20Pattern) [`Docker`](https://github.com/guanguans/guanguans.github.io/labels/Docker) [`Git`](https://github.com/guanguans/guanguans.github.io/labels/Git) [`Github`](https://github.com/guanguans/guanguans.github.io/labels/Github) [`Golang`](https://github.com/guanguans/guanguans.github.io/labels/Golang) [`JavaScript`](https://github.com/guanguans/guanguans.github.io/labels/JavaScript) [`Laravel`](https://github.com/guanguans/guanguans.github.io/labels/Laravel) [`MySQL`](https://github.com/guanguans/guanguans.github.io/labels/MySQL) [`Nginx`](https://github.com/guanguans/guanguans.github.io/labels/Nginx) [`PHP`](https://github.com/guanguans/guanguans.github.io/labels/PHP) [`SQL`](https://github.com/guanguans/guanguans.github.io/labels/SQL) [`Symfony`](https://github.com/guanguans/guanguans.github.io/labels/Symfony) [`ThinkPHP`](https://github.com/guanguans/guanguans.github.io/labels/ThinkPHP) [`Yii`](https://github.com/guanguans/guanguans.github.io/labels/Yii) [`其他`](https://github.com/guanguans/guanguans.github.io/labels/其他)
 
 ## [开源项目](https://github.com/guanguans)
 
 * [coole](https://www.guanguans.cn/coole/#/) - Coole 是一个基于开源组件包构建的 PHP 微框架
 * [music-dl](https://github.com/guanguans/music-dl) - 命令行全网音乐搜索下载器
+* [ai-commit](https://github.com/guanguans/ai-commit) - 使用 AI 自动生成约定式 git 提交信息
 * [soar-php](https://github.com/guanguans/soar-php) - SQL 优化、重写器(辅助 SQL 调优)
 * [notify](https://github.com/guanguans/notify) - 推送通知 sdk(支持 25+ 平台)
 * [laravel-exception-notify](https://github.com/guanguans/laravel-exception-notify) - Laravel 中异常监控报警通知
