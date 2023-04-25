@@ -22,6 +22,7 @@
 
 ## 2023
 
+* 2023-04-25 - [laravel 中合并控制器的多个表单请求为一个的解决方案](https://github.com/guanguans/guanguans.github.io/issues/52)
 * 2023-04-20 - [使用 OpenAI Finetune API 创建自己的微调模型](https://github.com/guanguans/guanguans.github.io/issues/51)
 
 ## 2022
