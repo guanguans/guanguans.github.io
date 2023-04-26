@@ -3,15 +3,15 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-title: title
-description: description
+title: guanguans
+description: No practice, no gain in one's wit.
 
-show_downloads: true
+show_downloads: false
 google_analytics: Your Google Analytics tracking ID
 
 github:
   zip_url: http://example.com/download.zip
-  another_url: another value
+  another_url: guanguans
 
 # Setup
 title:        guanguans
