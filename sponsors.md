@@ -1,4 +1,4 @@
-# Sponsor me
+# 赞助我
 
 <table>
     <thead>
