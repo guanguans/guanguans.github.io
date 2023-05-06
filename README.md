@@ -1,6 +1,6 @@
 # guanguans 博客
 
-## 标签
+## [标签](https://github.com/guanguans/guanguans.github.io/labels)
 
 [`AI`](https://github.com/guanguans/guanguans.github.io/labels/AI) [`Design Pattern`](https://github.com/guanguans/guanguans.github.io/labels/Design%20Pattern) [`Docker`](https://github.com/guanguans/guanguans.github.io/labels/Docker) [`Git`](https://github.com/guanguans/guanguans.github.io/labels/Git) [`Github`](https://github.com/guanguans/guanguans.github.io/labels/Github) [`Golang`](https://github.com/guanguans/guanguans.github.io/labels/Golang) [`JavaScript`](https://github.com/guanguans/guanguans.github.io/labels/JavaScript) [`Laravel`](https://github.com/guanguans/guanguans.github.io/labels/Laravel) [`MySQL`](https://github.com/guanguans/guanguans.github.io/labels/MySQL) [`Nginx`](https://github.com/guanguans/guanguans.github.io/labels/Nginx) [`PHP`](https://github.com/guanguans/guanguans.github.io/labels/PHP) [`SQL`](https://github.com/guanguans/guanguans.github.io/labels/SQL) [`Symfony`](https://github.com/guanguans/guanguans.github.io/labels/Symfony) [`ThinkPHP`](https://github.com/guanguans/guanguans.github.io/labels/ThinkPHP) [`Yii`](https://github.com/guanguans/guanguans.github.io/labels/Yii) [`其他`](https://github.com/guanguans/guanguans.github.io/labels/其他)
 
@@ -20,12 +20,12 @@
 * [id-validator](https://github.com/guanguans/id-validator) - Go 版中国身份证号验证器
 * [dnmp-plus](https://github.com/guanguans/dnmp-plus) - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui
 
-## 2023
+## [2023](https://github.com/guanguans/guanguans.github.io/labels/2023)
 
 * 2023-04-25 - [laravel 中合并控制器的多个表单请求为一个的解决方案](https://github.com/guanguans/guanguans.github.io/issues/52)
 * 2023-04-20 - [使用 OpenAI Finetune API 创建自己的微调模型](https://github.com/guanguans/guanguans.github.io/issues/51)
 
-## 2022
+## [2022](https://github.com/guanguans/guanguans.github.io/labels/2022)
 
 * 2022-10-13 - [PHP-Parser 应用之生成源代码的单元测试方法](https://github.com/guanguans/guanguans.github.io/issues/50)
 * 2022-09-07 - [PHP-Parser 应用之扫描发现代码中的打印、输出结构语句](https://github.com/guanguans/guanguans.github.io/issues/49)
@@ -36,13 +36,13 @@
 * 2022-05-19 - [分享一个便捷、通用的 laravel 模型属性转换器](https://github.com/guanguans/guanguans.github.io/issues/44)
 * 2022-03-31 - [laravel 中根据请求路径、方法匹配路由实例](https://github.com/guanguans/guanguans.github.io/issues/43)
 
-## 2021
+## [2021](https://github.com/guanguans/guanguans.github.io/labels/2021)
 
 * 2021-09-12 - [PHP 字符串中直接解析函数的写法](https://github.com/guanguans/guanguans.github.io/issues/41)
 * 2021-05-18 - [PHP Callback/Callable 类型使用](https://github.com/guanguans/guanguans.github.io/issues/40)
 * 2021-02-23 - [用 symfony/options-resolver 优雅的校验类初始化选项](https://github.com/guanguans/guanguans.github.io/issues/39)
 
-## 2020
+## [2020](https://github.com/guanguans/guanguans.github.io/labels/2020)
 
 * 2020-12-21 - [组建自己的 PHP 框架](https://github.com/guanguans/guanguans.github.io/issues/38)
 * 2020-12-07 - [Yii 中优雅的使用事件](https://github.com/guanguans/guanguans.github.io/issues/37)
@@ -58,7 +58,7 @@
 * 2020-08-18 - [laravel 中轻松容易的输出完整的 SQL 语句](https://github.com/guanguans/guanguans.github.io/issues/27)
 * 2020-08-18 - [适配于 Yii 的 alipay 和 wechat 的支付扩展包](https://github.com/guanguans/guanguans.github.io/issues/26)
 
-## 2019
+## [2019](https://github.com/guanguans/guanguans.github.io/labels/2019)
 
 * 2019-11-03 - [VScode 远程开发配置](https://github.com/guanguans/guanguans.github.io/issues/13)
 * 2019-06-26 - [Docker 的 LNMP 一键安装开发环境与 PHP 非侵入式监控平台 xhgui 的安装使用](https://github.com/guanguans/guanguans.github.io/issues/9)
@@ -70,14 +70,10 @@
 * 2019-04-24 - [Commit message 和 Change log 编写指南](https://github.com/guanguans/guanguans.github.io/issues/2)
 * 2019-03-21 - [Hello world](https://github.com/guanguans/guanguans.github.io/issues/1)
 
-## 赞助我
+## [赞助我](https://www.guanguans.cn/sponsors)
 
-[赞助我](https://www.guanguans.cn/sponsors)
+## [状态页](https://www.guanguans.cn/upptime)
 
-## 状态页
-
-[状态页](https://www.guanguans.cn/upptime)
-
-## 协议
+## [协议](https://github.com/guanguans/guanguans.github.io/blob/master/LICENSE.md)
 
 本作品采用[《署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)》](https://github.com/guanguans/guanguans.github.io/blob/master/LICENSE.md)许可协议，转载必须注明作者和本文链接。
