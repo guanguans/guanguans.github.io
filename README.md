@@ -71,6 +71,10 @@
 * 2019-04-24 - [Commit message 和 Change log 编写指南](https://github.com/guanguans/guanguans.github.io/issues/2)
 * 2019-03-21 - [Hello world](https://github.com/guanguans/guanguans.github.io/issues/1)
 
+## [2014](https://github.com/guanguans/guanguans.github.io/labels/2014)
+
+* 2014-04-08 - [平遥古城记](https://github.com/guanguans/guanguans.github.io/issues/54)
+
 ## [赞助我](https://www.guanguans.cn/sponsors)
 
 ## [状态页](https://www.guanguans.cn/upptime)
