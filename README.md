@@ -20,6 +20,10 @@
 * [id-validator](https://github.com/guanguans/id-validator) - Go 版中国身份证号验证器
 * [dnmp-plus](https://github.com/guanguans/dnmp-plus) - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui
 
+## [2024](https://github.com/guanguans/guanguans.github.io/labels/2024)
+
+* 2024-01-17 - [分享一组比 laravel 调度事件中 AppendOutputTo 方法更为便捷的宏方法](https://github.com/guanguans/guanguans.github.io/issues/55)
+
 ## [2023](https://github.com/guanguans/guanguans.github.io/labels/2023)
 
 * 2023-05-06 - [统一规范化项目的命名风格](https://github.com/guanguans/guanguans.github.io/issues/53)
