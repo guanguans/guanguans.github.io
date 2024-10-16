@@ -22,6 +22,7 @@
 
 ## [2024](https://github.com/guanguans/guanguans.github.io/labels/2024)
 
+* 2024-10-16 - [laravel 中实现注解注入](https://github.com/guanguans/guanguans.github.io/issues/57)
 * 2024-04-08 - [laravel 中自动批量注册验证规则到验证器](https://github.com/guanguans/guanguans.github.io/issues/56)
 * 2024-01-17 - [分享一组比 laravel 调度事件中 AppendOutputTo 方法更为便捷的宏方法](https://github.com/guanguans/guanguans.github.io/issues/55)
 
