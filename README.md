@@ -15,6 +15,7 @@
 * [laravel-api-response](https://github.com/guanguans/laravel-api-response) - 规范化和标准化 Laravel API 响应数据结构
 * [laravel-soar](https://github.com/guanguans/laravel-soar) - 辅助 laravel 应用 sql 优化、重写
 * [laravel-dump-sql](https://github.com/guanguans/laravel-dump-sql) - 辅助 laravel 应用获取完整的 sql 语句
+* [dcat-login-captcha](https://github.com/guanguans/dcat-login-captcha) - dcat admin 登录验证码
 * [yii-var-dumper](https://github.com/guanguans/yii-var-dumper) - 将 symfony/var-dumper 集成到 Yii
 * [yii-goaop](https://github.com/guanguans/yii-goaop) - 将 goaop/framework 集成到 Yii，在 Yii 中优雅的面向切面编程
 * [yii-event](https://github.com/guanguans/yii-event) - 一个 Yii 中优雅的使用事件扩展包
