@@ -20,6 +20,7 @@
 * [yii-goaop](https://github.com/guanguans/yii-goaop) - 将 goaop/framework 集成到 Yii，在 Yii 中优雅的面向切面编程
 * [yii-event](https://github.com/guanguans/yii-event) - 一个 Yii 中优雅的使用事件扩展包
 * [id-validator](https://github.com/guanguans/id-validator) - Go 版中国身份证号验证器
+* [gh-actions-watcher](https://github.com/guanguans/gh-actions-watcher) - 实时查看 GitHub Action 工作流状态的 Go CLI 工具
 * [dnmp-plus](https://github.com/guanguans/dnmp-plus) - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui
 
 ## [2024](https://github.com/guanguans/guanguans.github.io/labels/2024)
