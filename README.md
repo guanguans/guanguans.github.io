@@ -23,6 +23,10 @@
 * [gh-actions-watcher](https://github.com/guanguans/gh-actions-watcher) - 实时查看 GitHub Action 工作流状态的 Go CLI 工具
 * [dnmp-plus](https://github.com/guanguans/dnmp-plus) - Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui
 
+## [2025](https://github.com/guanguans/guanguans.github.io/labels/2025)
+
+* 2025-07-30 - [php-cs-fixer 集成 blade-formatter 来格式化 blade 模板](https://github.com/guanguans/guanguans.github.io/issues/59)
+
 ## [2024](https://github.com/guanguans/guanguans.github.io/labels/2024)
 
 * 2024-10-29 - [laravel-api-response - 规范化和标准化 Laravel API 响应数据结构](https://github.com/guanguans/guanguans.github.io/issues/58)
